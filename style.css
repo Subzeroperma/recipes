@@ -1,0 +1,33 @@
+.text
+{
+    font-size: large;
+    color: green;
+}
+.links
+{
+    background-color: bisque;
+    padding: 3px;
+    margin: 10 px;
+    border-color: chartreuse;
+}
+.corn
+{
+    color: yellow;
+    background-color: aliceblue;
+}
+.beans
+{
+    color: brown;
+    background-color: aquamarine;
+}
+.cookies
+{
+    color:coral;
+    background-color: burlywood;
+}
+.ex
+{
+    height: 100px;
+    width: 100px;
+    background-color: cadetblue;
+}
